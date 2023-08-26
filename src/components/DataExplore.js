@@ -17,8 +17,8 @@ const DataExplore = () => {
     };
 
     const columns = [
-        { field: 'id', headerName: 'Serial', width: 120 },
-        { field: 'status', headerName: 'Status', width: 145},
+        { field: 'id', headerName: 'Serial', width: 100 },
+        { field: 'status', headerName: 'Status', width: 135},
         { field: 'type', headerName: 'Type', width: 125 },
         { field: 'landings', headerName: 'Landings', width: 145 },
     ];
